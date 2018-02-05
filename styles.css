@@ -1,0 +1,7 @@
+canvas {
+    border: 1px solid red;
+}
+
+img#img_source {
+    max-width: 400px;
+}
